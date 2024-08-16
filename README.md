@@ -50,7 +50,7 @@ En mostrar_foto.php se generan etiquetas "a" cuyo href es utilizado para enviar 
 3) En el archivo acerca.php se declara la variable $foto, que cuenta con un la dirección de la fotografía de mi abuelo que es mostrado en la etiqueta "img" del apartado mencionado en el punto anterior.
 
 
-### Emplear al menos una estructuras de control.
+### Emplear al menos una estructura de control.
 
 Voy a resaltar tres estructuras de control utilizadas en mi código:
 
